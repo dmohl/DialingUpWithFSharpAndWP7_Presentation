@@ -1,0 +1,70 @@
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\ApplicationIcon.png
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\Background.png
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\SplashScreenImage.jpg
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\App.xaml.cs
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\AppManifest.xaml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\WindowsPhonePanoramaAppHost.xap
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\Caliburn.Micro.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\FSharp.Core.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\System.Windows.Interactivity.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\FSharp.Core.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\System.Windows.Interactivity.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\obj\Debug\ResolveAssemblyReference.cache
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\obj\Debug\App.g.i.cs
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\obj\Debug\XapCacheFile.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\NewTunes.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\NewTunes.pdb
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\NewTunes.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\obj\Debug\WindowsPhonePanoramaAppHost.g.resources
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\WindowsPhonePanoramaAppHost.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\WindowsPhonePanoramaAppHost.pdb
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\obj\Debug\WindowsPhonePanoramaAppHost.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\AppHost\obj\Debug\WindowsPhonePanoramaAppHost.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\NewTunes\AppHost\Bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\ApplicationIcon.png
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\Background.png
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\App.xaml.cs
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\SplashScreenImage.jpg
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\WindowsPhonePanoramaAppHost.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\WindowsPhonePanoramaAppHost.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\AppManifest.xaml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\WindowsPhonePanoramaAppHost.xap
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\Caliburn.Micro.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\NewTunes.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\NewTunes.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\NewTunes.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\obj\Debug\App.g.i.cs
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\obj\Debug\WindowsPhonePanoramaAppHost.g.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\obj\Debug\WindowsPhonePanoramaAppHost.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\obj\Debug\WindowsPhonePanoramaAppHost.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\AppHost\obj\Debug\XapCacheFile.xml

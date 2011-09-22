@@ -1,0 +1,16 @@
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\bin\Debug\FsUnit.XML
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\bin\Debug\FsUnit.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\bin\Debug\FsUnit.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\bin\Debug\nunit.framework.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\bin\Debug\nunit.framework.xml
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\obj\Debug\FsUnit.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\FsUnit\obj\Debug\FsUnit.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\bin\Debug\FsUnit.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\bin\Debug\FsUnit.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\bin\Debug\FsUnit.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\bin\Debug\nunit.framework.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\bin\Debug\nunit.framework.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\obj\Debug\FsUnit.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\FsUnit\obj\Debug\FsUnit.pdb

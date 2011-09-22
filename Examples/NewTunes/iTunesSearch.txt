@@ -1,0 +1,27 @@
+Basic Search URL:
+
+http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStoreServices.woa/wa/wsSearch?term=the%20script&media=music&entity=album&attribute=artistTerm
+
+Basic Search URL by multiple artist IDs
+
+http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStoreServices.woa/wa/wsLookup?id=273179909,277228393&entity=album&sort=recent
+
+To Do:
+
+- Make the main artist page look a bit nicer 
+	- Small artist images on the left with Artist name on the right, last album release date.
+	- Line devider, then display of the next artist
+- Change the application name.
+- Add a detail page
+	- When the artist from the main page is clicked, it takes the user to the detail page.
+	- The detail page includes all items for that artist.
+- Add ability to add new artists to the list
+	- New page that allows a search term to be entered
+	- Results of artists are shown in a list view with their most recent album image
+	- Artist IDs are stored on the device. 
+- Service Layer
+	- Add username and password
+	- Add service layer that will save the users selected artists, check for updates for any artists they 	are watching, send push notifications.
+	- Do caching here
+- Add an options page (switch from push notifications to pull or turn off (use manual update))
+- Add a nice tile icon that displays the push notification count and maybe small images of the latest album images.	

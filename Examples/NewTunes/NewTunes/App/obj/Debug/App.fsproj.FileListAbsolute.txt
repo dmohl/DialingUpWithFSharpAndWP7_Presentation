@@ -1,0 +1,50 @@
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\Caliburn.Micro.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\FSharp.Core.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\System.Windows.Interactivity.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\FSharp.Core.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\System.Windows.Interactivity.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\obj\Debug\ResolveAssemblyReference.cache
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\NewTunes.xml
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\NewTunes.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\NewTunes.pdb
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\obj\Debug\NewTunes.g.resources
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\obj\Debug\NewTunes.dll
+c:\users\daniel mohl\documents\visual studio 2010\Projects\NewTunes\NewTunes\App\obj\Debug\NewTunes.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\NewTunes\App\bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\NewTunes.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\NewTunes.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\NewTunes.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\Caliburn.Micro.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\obj\Debug\NewTunes.g.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\obj\Debug\NewTunes.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\NewTunes\App\obj\Debug\NewTunes.pdb

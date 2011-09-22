@@ -1,0 +1,60 @@
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\App.Tests.XML
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\App.Tests.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\App.Tests.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\FsUnit.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\NewTunes.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\Caliburn.Micro.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\NewTunes.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\NewTunes.xml
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\FsUnit.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\FsUnit.xml
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\obj\Debug\App.Tests.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\obj\Debug\App.Tests.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\NewTunes\tests\App.Tests\bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\App.Tests.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\App.Tests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\App.Tests.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\FsUnit.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\NewTunes.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\Caliburn.Micro.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\NewTunes.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\NewTunes.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\FsUnit.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\FsUnit.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\Newtonsoft.Json.WindowsPhone.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\obj\Debug\App.Tests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Dialing Up with F# and WP7\Examples\NewTunes\tests\App.Tests\obj\Debug\App.Tests.pdb
